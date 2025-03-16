@@ -4,6 +4,7 @@ Last updated: 16 March 2025
 ## Introduction
 
 Welcome to the GrindPilled mailing list! Your privacy is important to us, and we are committed to protecting any information you share with us. This Privacy Policy explains what data we collect, how we use it, and your rights regarding your information.
+
 Summarized, We will **never** sell, share, or distribute your email address or data to third parties.  
 
 ## What Data We Collect

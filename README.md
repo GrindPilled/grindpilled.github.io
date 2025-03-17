@@ -5,7 +5,7 @@ Last updated: 16 March 2025
 
 Welcome to the GrindPilled mailing list! Your privacy is important to us, and we are committed to protecting any information you share with us. This Privacy Policy explains what data we collect, how we use it, and your rights regarding your information.
 
-Summarized, we will **never** sell, share, or distribute your email address or data to third parties.  
+Summarized, we will **never** sell, share, or distribute your email address or data to third parties!  
 
 ## What Data We Collect
 
@@ -43,7 +43,7 @@ We retain your email address **as long as you remain subscribed**. If you unsubs
 You have the right to:  
 
 - **Unsubscribe** – You can opt out of our mailing list at any time by clicking the "unsubscribe" link in any email we send.  
-- **Request Deletion** – If you would like your email address permanently removed from our records, you can contact us through our official channels.  
+- **Request Deletion** – If you would like your email address permanently removed from our records, you can contact me at BigBoss@GrindPilled.com  
 
 ## Changes to This Privacy Policy  
 
@@ -53,6 +53,6 @@ However, if we make any significant changes that affect how we process your data
 
 ## Contact Information  
 
-If you have any questions about this Privacy Policy, please reach out through our official channels.  
+If you have any questions about this Privacy Policy, please reach out via email at BigBoss@GrindPilled.com  
 
 Thank you for being part of the GrindPilled community!

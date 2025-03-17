@@ -43,7 +43,7 @@ We retain your email address **as long as you remain subscribed**. If you unsubs
 You have the right to:  
 
 - **Unsubscribe** – You can opt out of our mailing list at any time by clicking the "unsubscribe" link in any email we send.  
-- **Request Deletion** – If you would like your email address permanently removed from our records, you can contact me at bigboss@grindpilled.com with your request
+- **Request Deletion** – If you would like your email address manually removed from our records, you can contact me at bigboss@grindpilled.com with your request.
 
 ## Changes to This Privacy Policy  
 

@@ -43,7 +43,7 @@ We retain your email address **as long as you remain subscribed**. If you unsubs
 You have the right to:  
 
 - **Unsubscribe** – You can opt out of our mailing list at any time by clicking the "unsubscribe" link in any email we send.  
-- **Request Deletion** – If you would like your email address permanently removed from our records, you can contact me at BigBoss@GrindPilled.com  
+- **Request Deletion** – If you would like your email address permanently removed from our records, you can contact me at bigboss@grindpilled.com with your request
 
 ## Changes to This Privacy Policy  
 
@@ -53,6 +53,6 @@ However, if we make any significant changes that affect how we process your data
 
 ## Contact Information  
 
-If you have any questions about this Privacy Policy, please reach out via email at BigBoss@GrindPilled.com  
+If you have any questions about this Privacy Policy or the game, please reach out via email at bigboss@grindpilled.com and I will be happy to answer!
 
 Thank you for being part of the GrindPilled community!

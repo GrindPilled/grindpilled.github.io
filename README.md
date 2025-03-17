@@ -9,7 +9,7 @@ Summarized, we will **never** sell, share, or distribute your email address or d
 
 ## What Data We Collect
 
-We only collect the following personal data when you sign up for our mailing list:
+We **only** collect the following personal data when you sign up for our mailing list:
 
 - **Email address**  
 
@@ -19,7 +19,7 @@ We **do not** collect any other personal information, including but not limited 
 
 Your email address will only be used for the following purposes:  
 
-- Sending you updates, news, and announcements related to our video game.  
+- Sending you updates, news, and announcements related to our video games.  
 - Providing information on upcoming features, events, or promotions related to GrindPilled.  
 
 We collect and process your email address based on **your consent**, which you provide by signing up for our mailing list. You can withdraw this consent at any time by unsubscribing.  
@@ -55,4 +55,4 @@ However, if we make any significant changes that affect how we process your data
 
 If you have any questions about this Privacy Policy or the game, please reach out via email at bigboss@grindpilled.com and I will be happy to answer!
 
-Thank you for being part of the GrindPilled community!
+Thank you for being part of this community!
